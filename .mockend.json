@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "place": "1",
+            "name": "Jon Doe",
+            "score": "76454"
+        },
+        {
+            "place": "2",
+            "name": "Jon Doe Long Name",
+            "score": "74567"
+        },
+        {
+            "place": "3",
+            "name": "Jon Doe",
+            "score": "73678"
+        },
+        {
+            "place": "4",
+            "name": "Jon Doe Extra Long Name",
+            "score": "72346"
+        },
+        {
+            "place": "5",
+            "name": "Jon Doe The IX",
+            "score": "71398"
+        },
+        {
+            "place": "6",
+            "name": "Jon Doe",
+            "score": "71165"
+        },
+        {
+            "place": "7",
+            "name": "Jon Doe",
+            "score": "70487"
+        },
+        {
+            "place": "8",
+            "name": "Jon Doe The Second",
+            "score": "70176"
+        },
+        {
+            "place": "9",
+            "name": "Jon Doe",
+            "score": "69265"
+        },
+        {
+            "place": "10",
+            "name": "Jon Doe",
+            "score": "68356"
+        }
+    ]
+}
